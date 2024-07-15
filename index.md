@@ -106,6 +106,7 @@ Sign up to receive future editions and read our full archive: <a href="https://c
 {% endif %}
 
 {% if site.pilot %}
+
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
@@ -176,7 +177,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 {% comment %}
-SPECIAL REQUIREMENTS
+ETHERPAD
 
 Modify the block below if there are any special requirements.
 {% endcomment %}
@@ -186,8 +187,7 @@ Modify the block below if there are any special requirements.
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
-    Participants must have access to a computer with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+    https://pad.carpentries.org/2024-07-15-UMB
   {% endif %}
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
@@ -303,7 +303,7 @@ Collaborative Notes
 
 If you want to use an Etherpad, go to
 
-https://pad.carpentries.org/YYYY-MM-DD-site
+https://pad.carpentries.org/2024-07-15-UMB
 
 where 'YYYY-MM-DD-site' is the identifier for your workshop,
 e.g., '2015-06-10-esu'.
