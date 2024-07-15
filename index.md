@@ -303,7 +303,8 @@ Collaborative Notes
 
 If you want to use an Etherpad, go to
 
-https://pad.carpentries.org/2024-07-15-UMB
+<p class="text-center">
+  <a href=https://pad.carpentries.org/2024-07-15-UMB
 
 where 'YYYY-MM-DD-site' is the identifier for your workshop,
 e.g., '2015-06-10-esu'.
